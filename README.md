@@ -31,5 +31,5 @@
 
 ## Connect 
 <a href="https://sudarshandevkota.com.np"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="https://mail.google.com/mail/?view=cm&to=sudarshandevkota22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=hello@sudarshandevkota.com.np"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sudru&label=Profile%20views&color=0e75b6&style=flat" alt="sudru" /> </p>
