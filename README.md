@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=yellowgreen">
   </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudru&theme=dark" alt="sudru" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therawbit&theme=dark" alt="sudru" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudru&show_icons=true&locale=en&layout=compact&theme=dark" alt="sudru" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therawbit&show_icons=true&locale=en&layout=compact&theme=dark" alt="sudru" /></p>
 
 
 
