@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudarshan Devkota (Sudru)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudarshan Devkota (TheRawBit)</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&pause=1000&color=DC980C&center=true&vCenter=true&width=500&lines=Java+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 </p>
@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=yellowgreen">
   </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therawbit&theme=dark" alt="sudru" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therawbit&theme=dark" alt="therawbit" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therawbit&show_icons=true&locale=en&layout=compact&theme=dark" alt="sudru" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therawbit&show_icons=true&locale=en&layout=compact&theme=dark" alt="therawbit" /></p>
 
 
 
